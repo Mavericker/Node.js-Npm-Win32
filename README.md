@@ -1,4 +1,11 @@
-Node.js-Npm-Win32
+Nakonfigurovanie NODE.JS
 =================
+1. Upravit subor "/proxy/ctlm.ini"
 
-Node.js + NPM - Win32 binaries
+Username	te000000
+Domain		TBDOM
+Password	heslo
+Proxy		proxy:8000
+
+2. Spustit subor "configure-node.bat"
+3. Restartnut konzolu + WebStorm
